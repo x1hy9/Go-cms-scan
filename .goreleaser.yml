@@ -1,6 +1,6 @@
 builds:
     - binary: scan
-      main: scan/cmd/main.go
+      main: cmd/main.go
       goos:
         - linux
         - windows
